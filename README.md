@@ -83,4 +83,7 @@ streamlit run app.py
 Feel free to contribute by opening issues or submitting pull requests!
 
 ## Results
-![Arabic To English Translator](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![Arabic To English Translator](https://github.com/Muradhameed921/Neural-Machine-Translation-Arabic-to-English/blob/main/A1.jpg)
+![Arabic To English Translator](https://github.com/Muradhameed921/Neural-Machine-Translation-Arabic-to-English/blob/main/A2.jpg)
+![Arabic To English Translator](https://github.com/Muradhameed921/Neural-Machine-Translation-Arabic-to-English/blob/main/A3.jpg)
+![Arabic To English Translator](https://github.com/Muradhameed921/Neural-Machine-Translation-Arabic-to-English/blob/main/A4.jpg)
